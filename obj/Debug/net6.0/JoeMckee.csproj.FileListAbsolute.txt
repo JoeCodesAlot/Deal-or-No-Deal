@@ -1,0 +1,15 @@
+H:\Programming 1\Assignment Folder\JoeMckee\bin\Debug\net6.0\JoeMckee.exe
+H:\Programming 1\Assignment Folder\JoeMckee\bin\Debug\net6.0\JoeMckee.deps.json
+H:\Programming 1\Assignment Folder\JoeMckee\bin\Debug\net6.0\JoeMckee.runtimeconfig.json
+H:\Programming 1\Assignment Folder\JoeMckee\bin\Debug\net6.0\JoeMckee.dll
+H:\Programming 1\Assignment Folder\JoeMckee\bin\Debug\net6.0\JoeMckee.pdb
+H:\Programming 1\Assignment Folder\JoeMckee\obj\Debug\net6.0\JoeMckee.csproj.AssemblyReference.cache
+H:\Programming 1\Assignment Folder\JoeMckee\obj\Debug\net6.0\JoeMckee.GeneratedMSBuildEditorConfig.editorconfig
+H:\Programming 1\Assignment Folder\JoeMckee\obj\Debug\net6.0\JoeMckee.AssemblyInfoInputs.cache
+H:\Programming 1\Assignment Folder\JoeMckee\obj\Debug\net6.0\JoeMckee.AssemblyInfo.cs
+H:\Programming 1\Assignment Folder\JoeMckee\obj\Debug\net6.0\JoeMckee.csproj.CoreCompileInputs.cache
+H:\Programming 1\Assignment Folder\JoeMckee\obj\Debug\net6.0\JoeMckee.dll
+H:\Programming 1\Assignment Folder\JoeMckee\obj\Debug\net6.0\refint\JoeMckee.dll
+H:\Programming 1\Assignment Folder\JoeMckee\obj\Debug\net6.0\JoeMckee.pdb
+H:\Programming 1\Assignment Folder\JoeMckee\obj\Debug\net6.0\JoeMckee.genruntimeconfig.cache
+H:\Programming 1\Assignment Folder\JoeMckee\obj\Debug\net6.0\ref\JoeMckee.dll
